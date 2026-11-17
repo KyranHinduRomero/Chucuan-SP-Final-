@@ -1,4 +1,4 @@
-/* Navegación móvil accesible para SolarQuote. */
+/* Navegación móvil accesible para este sitio. */
 (() => {
   const toggle = document.querySelector('.menu-toggle');
   const menu = document.querySelector('#site-menu');
